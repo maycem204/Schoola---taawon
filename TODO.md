@@ -1,0 +1,3 @@
+- [ ] Update ListingCard.tsx interface to use seller instead of owner
+- [ ] Adjust destructuring and isOwner logic to use seller
+- [ ] Run tests to verify fixes

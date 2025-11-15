@@ -1,0 +1,22 @@
+// MongoDB Atlas - Informations de connexion
+URL de connexion: mongodb+srv://<username>:<password>@cluster0.mongodb.net/schoola-taawon
+Username: schoola_admin
+Password: [Générez un mot de passe fort et conservez-le]
+
+// Instructions de configuration MongoDB Atlas:
+1. Dans "Security" -> "Database Access":
+   - Add New Database User
+   - Username: schoola_admin
+   - Password: [votre mot de passe]
+   - Built-in Role: Atlas admin
+   - Add User
+
+2. Dans "Security" -> "Network Access":
+   - Add IP Address
+   - Allow Access from Anywhere (0.0.0.0/0)
+   - Confirm
+
+3. Dans "Databases":
+   - Cliquez sur "Connect"
+   - Choisissez "Connect your application"
+   - Copiez l'URL de connexion

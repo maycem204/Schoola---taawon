@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "_id": "690cf585332c1d6572a19f3a",
+      "username": "test_user",
+      "email": "test@schoola-taawon.com",
+      "password": "$2a$12$jxo9RzMAfWdSUxdhAMH4beI3pV7aXvY9tkWbjA1duf3yFPx0mIbuK",
+      "city": "Tunis",
+      "profilePicture": ""
+    }
+  ],
+  "conversations": [],
+  "listings": [],
+  "messages": []
+}

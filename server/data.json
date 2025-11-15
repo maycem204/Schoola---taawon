@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "user_ZXlhbWFu",
+      "username": "eya",
+      "email": "eyamanaa3@gmail.com",
+      "city": "ben-arous"
+    }
+  ],
+  "listings": [
+    {
+      "_id": "1762546116478",
+      "title": "hk",
+      "description": "hj",
+      "category": "textbooks",
+      "condition": "new",
+      "educationLevel": "primary",
+      "city": "Balta Bou Aouane",
+      "listingType": "vente",
+      "owner": "user_TW96aWxs",
+      "ownerUsername": "user_TW96aWxs",
+      "images": [
+        "1762546116464-DataReportal+20241021+Digital+2024+October+Global+Statshot+Report+p253.png"
+      ],
+      "status": "disponible",
+      "likes": [
+        "user_ZXlhbWFu"
+      ],
+      "likesCount": 1,
+      "createdAt": "2025-11-07T20:08:36.478Z",
+      "price": 0
+    }
+  ],
+  "conversations": [
+    {
+      "_id": "1762546485989",
+      "participants": [
+        "user_bWF5c2FA",
+        "user_TW96aWxs"
+      ],
+      "listing": "1762546116478",
+      "lastMessage": {
+        "_id": "1762546492552",
+        "conversation": "1762546485989",
+        "sender": "user_bWF5c2FA",
+        "content": "je veux",
+        "readBy": [
+          "user_bWF5c2FA"
+        ],
+        "createdAt": "2025-11-07T20:14:52.552Z"
+      },
+      "createdAt": "2025-11-07T20:14:45.989Z",
+      "updatedAt": "2025-11-07T20:14:52.552Z"
+    }
+  ],
+  "messages": [
+    {
+      "_id": "1762546492552",
+      "conversation": "1762546485989",
+      "sender": "user_bWF5c2FA",
+      "content": "je veux",
+      "readBy": [
+        "user_bWF5c2FA"
+      ],
+      "createdAt": "2025-11-07T20:14:52.552Z"
+    }
+  ],
+  "notifications": [
+    {
+      "_id": "1762546454041",
+      "recipient": "user_TW96aWxs",
+      "type": "like",
+      "message": "Quelqu'un a aimé votre annonce \"hk\"",
+      "listing": "1762546116478",
+      "read": false,
+      "createdAt": "2025-11-07T20:14:14.041Z"
+    }
+  ]
+}
